@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build directories
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
